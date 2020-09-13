@@ -44,3 +44,16 @@ int main()
 
 	return 0;
 }
+
+/* Plan de tests
+* 
+* NombreEntier	/	Modulo		/	Résultat
+* 
+*		2				2				2 est un nombre pair
+*		0				2				0 est un nombre pair
+*		-1				2				-1 est un nombre impair
+*		867000			2				867000 est un nombre pair
+*		-99				2				-99 est un nombre impair
+* 
+* 
+*/
