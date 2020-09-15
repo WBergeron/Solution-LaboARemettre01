@@ -1,4 +1,4 @@
-// But : Écrire un programme qui lit un entier et qui détermine et affiche s'il s'agit d'un entier pair ou d'un entier impair.
+// But : Ã‰crire un programme qui lit un entier et qui dÃ©termine et affiche s'il s'agit d'un entier pair ou d'un entier impair.
 // Auteur : William Bergeron
 // Date : 2020-09-09
 
@@ -47,13 +47,13 @@ int main()
 
 /* Plan de tests
 * 
-* NombreEntier	/	Modulo		/	Résultat
+* NombreEntier	/	Modulo		/	RÃ©sultat
 * 
 *		2				2				2 est un nombre pair
 *		0				2				0 est un nombre pair
 *		-1				2				-1 est un nombre impair
 *		867000			2				867000 est un nombre pair
 *		-99				2				-99 est un nombre impair
-* 
+* // KM : Je pense qu'il y a erreur dans les rÃ©sultats car %2 ne peut donner que 0 ou 1 comme rÃ©sultat
 * 
 */
