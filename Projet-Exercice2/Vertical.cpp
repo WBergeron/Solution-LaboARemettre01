@@ -1,4 +1,4 @@
-// But : Crée un programme qui lit les entrers de nombre ayant 5 chiffre et lit ce même nombre verticalement
+// FR : But : CrÃ©e un programme qui lit les entrers de nombre ayant 5 chiffre et lit ce mÃªme nombre verticalement
 // Auteur : William Bergeron
 // Date : 2020-09-13
 
